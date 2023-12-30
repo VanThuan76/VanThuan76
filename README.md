@@ -1,4 +1,4 @@
-# THUANHIP
+# Hi I'm Thuan Hip :>
 
 <img align="right" width="300px" src="./gonjo.png" />
 
@@ -17,7 +17,7 @@
 <br>
 
 - :rocket: Skills: <strong>HTML5 | CSS3 | JavaScript (ES6+) | Typescript | Node.js | ReactJs | NextJs | NPM / Yarn | MySQL | Mongodb | PHP (Laravel Framework).</strong>
-- :mortar_board: Studying: <strong>VueJS | Liveware (Laravel)</strong>.
+- :mortar_board: Studying: <strong>Java Spring Boot With Flutter</strong>.
 - :briefcase: I am currently looking for a job as Fullstack Developer.
 
 <br>
@@ -25,7 +25,7 @@
 <img
   align="left"
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=cuzinxyz&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=VanThuan76&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&hide_border=true"
 />
 
 ---
@@ -38,5 +38,4 @@
 <div style='display: flex;
 	flex-direction: row; align-items:start; justify-content:center; gap:16px'>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanthuan76&show_icons=true&locale=en&layout=compact" alt="vanthuan76" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanthuan76&show_icons=true&locale=en" alt="vanthuan76" />
 </div>
