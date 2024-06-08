@@ -11,12 +11,16 @@
   <a href="https://leetcode.com/u/VanThuan76">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
-  <a href="https://github.com/cuzinxyz/?tab=follow">
-    <img src="https://img.shields.io/github/followers/VanThuan76?label=Follow&style=social" />
-  </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=VanThuan76&label=Visitors+Count&color=blue)
+<p align="left">
+ <a href="https://github.com/cuzinxyz/?tab=follow">
+    <img src="https://img.shields.io/github/followers/VanThuan76?label=Follow&style=social" />
+  </a>
+   <a>
+    <img src="https://komarev.com/ghpvc/?username=VanThuan76&label=Visitors+Count&color=blue" />
+  </a>
+</p>
 
 <br>
 
@@ -90,21 +94,22 @@
 
 <div style='display:flex; flex-wrap: wrap; align-items:center; justify-content:start; gap: 10px, width:100%;'>
   <img 
-    width="300"
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanthuan76&theme=solarized"
     height="165"
   />
-  <img 
-    width="300"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanthuan76&theme=solarized"
-    height="165"
-  />
-    <img
-    width="300"
+  <img
     height="165"
     src="https://github-readme-stats.vercel.app/api?username=VanThuan76&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&hide_border=true"
   />
 </div>
 <br>
-
-[![VanThuan76's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=VanThuan76)](https://github.com/VanThuan76/leetcode-stats)
+<div style='display:flex; flex-wrap: wrap; align-items:center; justify-content:start; gap: 10px, width:100%;'>
+  <img
+    height="165"
+    src="https://leetcode-stats-six.vercel.app/?username=VanThuan76"
+  />
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanthuan76&theme=solarized"
+    height="165"
+  />
+</div>
