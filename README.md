@@ -1,4 +1,3 @@
-![Header](./github-header-image.png)
 <img align="right" width="300px" src="./gonjo.png" />
 
 <p align="left">
@@ -36,47 +35,47 @@
 
   <a href="#">
     <img src="languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="#">
     <img src="languages/dart_colour.svg" alt="dart_colour" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="#">
     <img src="languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="#">
     <img src="languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="#">
     <img src="languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="#">
     <img src="languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="#">
     <img src="languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
  <a href="#">
     <img src="frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
    <a href="#">
     <img src="frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
  <a href="#">
     <img src="frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
    <a href="#">
     <img src="frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
 
    <a href="#">
     <img src="services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
@@ -84,32 +83,34 @@
   
   <a href="#">
     <img src="services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
 
   <a href="#">
     <img src="services/gcp.svg" alt="gcp" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
+  </a>
 </p>
-
 <div style='display:flex; flex-wrap: wrap; align-items:center; justify-content:start; gap: 10px, width:100%;'>
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanthuan76&theme=solarized"
     height="165"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=VanThuan76&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&hide_border=true"
-  />
-</div>
-<br>
-<div style='display:flex; flex-wrap: wrap; align-items:center; justify-content:start; gap: 10px, width:100%;'>
-  <img
-    height="165"
-    src="https://leetcode-stats-six.vercel.app/?username=VanThuan76"
   />
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanthuan76&theme=solarized"
     height="165"
   />
 </div>
+<br>
+<div style='display:flex; flex-wrap: wrap; align-items:center; justify-content:start; gap: 10px, width:100%; margin-bottom: 20px'>
+<img
+    height="165"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VanThuan76&theme=swift&utcOffset=8"
+  />
+<img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=vanthuan76&hide=contribs,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
+  />
+</div>
+
+<!--START_SECTION:waka-->
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VanThuan76)
+<!--END_SECTION:waka-->
