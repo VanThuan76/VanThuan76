@@ -112,5 +112,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VanThuan76)
+
 <!--END_SECTION:waka-->
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VanThuan76)
